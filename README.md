@@ -27,7 +27,32 @@ cd Web/
 az webapp deployment source config-zip --resource-group az-204 --src web.zip --name imgwebfelipecembranelli
 ```
 
-#### resources clean up
+### Azure functions
+
+```
+brew tap azure/functions
+brew install azure-functions-core-tools@4
+# if upgrading on a machine that has 2.x or 3.x installed:
+brew link --overwrite azure-functions-core-tools@4
+```
+
+````
+func init --worker--runtime dotnet --force
+dotnet build
+func new --template "HTTP trigger" --name "Echo"
+func start --build
+func azure functionapp publish funclogicfeliperc
+```
+
+```
+// install httprepl (to run azure function locally)
+dotnet tool install -g Microsoft.dotnet-httprepl
+httprepl http://localhost:7071
+```
+
+
+
+#### Resources clean up
 ```
 az group delete --name az-204 --no-wait --yes
 ```

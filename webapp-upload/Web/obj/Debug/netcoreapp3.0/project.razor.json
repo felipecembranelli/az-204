@@ -1,0 +1,25 @@
+{
+  "FilePath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/webapp-upload/Web/Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "Web",
+  "Documents": [
+    {
+      "FilePath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/webapp-upload/Web/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
