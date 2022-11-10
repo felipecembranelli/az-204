@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7rpH+DWe88H8c88ZTQIdr5UMATKTg1UQJWFvTtFZHLB1QwBPR3ahrV++GZbzipGH4ijO90qOPTUzVkmgX4IAA==",
+  "success": true,
+  "projectFilePath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/webapp-upload/Web/Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/feliperc/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.0.3/microsoft.netcore.app.host.osx-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Web/AdventureWorks.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Context/AdventureWorks.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Context/AdventureWorks.Context.csproj",
+        "projectName": "AdventureWorks.Context",
+        "projectPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Context/AdventureWorks.Context.csproj",
+        "packagesPath": "/Users/feliperc/.nuget/packages/",
+        "outputPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Context/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/feliperc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj": {
+                "projectPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj",
+        "projectName": "AdventureWorks.Models",
+        "projectPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj",
+        "packagesPath": "/Users/feliperc/.nuget/packages/",
+        "outputPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/feliperc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Web/AdventureWorks.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Web/AdventureWorks.Web.csproj",
+        "projectName": "AdventureWorks.Web",
+        "projectPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Web/AdventureWorks.Web.csproj",
+        "packagesPath": "/Users/feliperc/.nuget/packages/",
+        "outputPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/feliperc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Context/AdventureWorks.Context.csproj": {
+                "projectPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Context/AdventureWorks.Context.csproj"
+              },
+              "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj": {
+                "projectPath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.30, 3.1.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

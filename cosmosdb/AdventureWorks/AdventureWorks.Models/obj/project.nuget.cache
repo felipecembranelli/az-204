@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuPyJvphyCOO2hYulS+/D5RyrYemB1ot8MiVHxPNFTBHKayRsD2U7lOBW/+AvNV4XC8ei2pkYwuyQgWqCqLHJw==",
+  "success": true,
+  "projectFilePath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/AdventureWorks.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/feliperc/.nuget/packages/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

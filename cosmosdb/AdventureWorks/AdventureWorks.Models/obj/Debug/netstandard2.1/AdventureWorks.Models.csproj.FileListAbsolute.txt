@@ -1,0 +1,10 @@
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/bin/Debug/netstandard2.1/AdventureWorks.Models.deps.json
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/bin/Debug/netstandard2.1/AdventureWorks.Models.dll
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/bin/Debug/netstandard2.1/AdventureWorks.Models.pdb
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.csproj.AssemblyReference.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.AssemblyInfoInputs.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.AssemblyInfo.cs
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.csproj.CoreCompileInputs.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.dll
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/cosmosdb/AdventureWorks/AdventureWorks.Models/obj/Debug/netstandard2.1/AdventureWorks.Models.pdb
