@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AdventureWorks.Context
+build_property.ProjectDir = c:\LabGit\AZ-204-DevelopingSolutionsforMicrosoftAzure\Allfiles\Labs\04\Solution\AdventureWorks\AdventureWorks.Context\
