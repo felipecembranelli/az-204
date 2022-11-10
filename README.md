@@ -51,6 +51,10 @@ httprepl http://localhost:7071
 ```
 
 
+#### Verifying current azure account
+```
+az account show
+```
 
 #### Resources clean up
 ```
