@@ -56,9 +56,51 @@ httprepl http://localhost:7071
 az account show
 ```
 
+## Creating Virtual Machine
+
+### Create resource group
+```
+az group create -l westus -n rg-az-204
+```
+
+### Create vm
+```
+az vm create --resource-group rg-az-204 --name quickvm --image Debian --admin-username student --admin-password [xxxx]
+
+az vm show --resource-group ContainerCompute --name quickvm
+
+Run the following command to list all the IP addresses associated with the VM:
+
+az vm list-ip-addresses --resource-group ContainerCompute --name quickvm
+
+Run the following command to filter the output to only return the first IP address value:
+
+az vm list-ip-addresses --resource-group ContainerCompute --name quickvm --query '[].{ip:virtualMachine.network.publicIpAddresses[0].ipAddress}' --output tsv
+
+Run the following command to store the results of the previous command in a new Bash shell variable named ipAddress:
+
+ipAddress=$(az vm list-ip-addresses --resource-group rg-az-204 --name quickvm --query '[].{ip:virtualMachine.network.publicIpAddresses[0].ipAddress}' --output tsv)
+
+```
+
+### Creating container registry
+```
+registryName=conregistry$RANDOM
+
+az acr check-name --name $registryName
+
+az acr create --resource-group rg-az-204 --name $registryName --sku Basic
+
+Run the following command to upload the source code to your container registry and build the container image as a Container Registry task:
+
+az acr build --registry conregistry28829 --image ipcheck:latest .
+
+
+
+
 #### Resources clean up
 ```
-az group delete --name az-204 --no-wait --yes
+az group delete --name rg-az-204 --no-wait --yes
 ```
 
 

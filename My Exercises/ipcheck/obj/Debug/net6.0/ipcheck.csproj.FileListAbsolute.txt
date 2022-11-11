@@ -1,0 +1,15 @@
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.csproj.AssemblyReference.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.AssemblyInfoInputs.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.AssemblyInfo.cs
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.csproj.CoreCompileInputs.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/bin/Debug/net6.0/ipcheck
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/bin/Debug/net6.0/ipcheck.deps.json
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/bin/Debug/net6.0/ipcheck.runtimeconfig.json
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/bin/Debug/net6.0/ipcheck.dll
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/bin/Debug/net6.0/ipcheck.pdb
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.dll
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/refint/ipcheck.dll
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.pdb
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ipcheck.genruntimeconfig.cache
+/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/ipcheck/obj/Debug/net6.0/ref/ipcheck.dll
