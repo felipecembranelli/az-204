@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5Ws6VFfVILp2u8Wr7XRuM+IdPeOHzONA64TYF9BiQQ1Ss/9Dvo3Kw7OGKqEUDYJnAhcJa50hUqjSPW5ZxDC2Q==",
+  "success": true,
+  "projectFilePath": "/Users/feliperc/wkd/projects/personal/my-az-204/az-204/My Exercises/event-grid/EventPublisher/EventPub.csproj",
+  "expectedPackageFiles": [
+    "/Users/feliperc/.nuget/packages/azure.core/1.11.0/azure.core.1.11.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/azure.messaging.eventgrid/4.1.0/azure.messaging.eventgrid.4.1.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.memory.data/1.0.1/system.memory.data.1.0.1.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/feliperc/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
