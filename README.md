@@ -8,15 +8,15 @@ Lab 02: Implement task processing logic by using Azure Functions (DONE)
 Lab 03: Retrieve Azure Storage resources and metadata by using the Azure Storage SDK for .NET (DONE)
 Lab 04: Construct a polyglot (CosmosDb) data solution (DONE)
 Lab 05: Deploy compute workloads by using images and containers (DONE)
-Lab 06: Authenticate by using OpenID Connect, MSAL, and .NET SDKs **
+Lab 06: Authenticate by using OpenID Connect, MSAL, and .NET SDKs (DONE)
 Lab 07: Access resource secrets more securely across services **
 Lab 08: Create a multi-tier solution by using Azure services (APIM) (DONE)
 Lab 09: Publish and subscribe to Event Grid events (DONE)
 Lab 10: Asynchronously process messages by using Azure Service Bus Queues (DONE)
 Lab 11: Monitor services that are deployed to Azure **
-Lab 12: Enhance a web application by using the Azure Content Delivery Network **
+Lab 12: Enhance a web application by using the Azure Content Delivery Network (DONE)
 
-Missing labs:
+## Additional labs:
 - Event Hub
 - ??
 
