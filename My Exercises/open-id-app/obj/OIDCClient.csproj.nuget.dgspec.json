@@ -52,13 +52,17 @@
                 "NU1605"
               ]
             },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.0.0-preview.14, )"
+            },
             "Microsoft.Identity.Web": {
               "target": "Package",
-              "version": "[0.3.1-preview, )"
+              "version": "[1.25.9, )"
             },
             "Microsoft.Identity.Web.UI": {
               "target": "Package",
-              "version": "[0.3.1-preview, )"
+              "version": "[2.0.6-preview, )"
             }
           },
           "imports": [
